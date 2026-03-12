@@ -218,7 +218,7 @@ export default function App() {
                 transition={{ duration: 0.6 }}
               >
                 <h1 className="text-5xl lg:text-7xl font-bold text-slate-900 leading-tight mb-2">
-                  Tu reforma en manos de los <span className="text-accent">Expertos</span>
+                  Tu reforma en manos de <span className="text-accent">Expertos</span>
                 </h1>
                 <p className="text-2xl font-bold text-slate-800 mb-6">Todo bajo la Dirección, Supervisión y Experiencia de un Arquitecto con Más de 47 años transformando viviendas con profesionalidad y compromiso.</p>
                 <p className="text-xl text-slate-600 mb-4 leading-relaxed">
