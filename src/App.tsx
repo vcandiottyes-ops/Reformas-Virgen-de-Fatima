@@ -24,8 +24,8 @@ import {
 } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
 
-const WHATSAPP_NUMBER = "627628074";
-const CONTACT_WHATSAPP = "604334352";
+const WHATSAPP_NUMBER = "634710065";
+const CONTACT_WHATSAPP = "634710065";
 
 export default function App() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
